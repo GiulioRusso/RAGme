@@ -1,4 +1,5 @@
 .env
+.DS_Store
 upload/*
 vector_db/*
 images/RAGme.mp4
