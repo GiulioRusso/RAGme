@@ -1,0 +1,4 @@
+.env
+upload/*
+vector_db/*
+images/RAGme.mp4
